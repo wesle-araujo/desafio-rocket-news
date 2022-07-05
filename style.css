@@ -1,0 +1,121 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: content-box;
+    font-family: Merriweather Sans;
+}
+
+
+header img{
+    width: 50%;
+    border: solid 1px black;
+    margin: 3em 1em;
+}
+main{
+    background-color: #121214;
+    position: absolute;
+    right: 49%;
+    height: 100vh;
+   
+}
+.description{
+    /* border: solid 1px white; */
+    margin: 3em 1em;
+    /* width: 40%; */
+    padding: 1em;
+
+}
+#paragraph1{
+    /* border: solid 1px white; */
+    color:#08C05E ;
+    font-weight: bold;
+    font-size: 2em;
+    margin-bottom: 0.5em;
+}
+#paragraph2{
+    /* border: solid 1px white; */
+    color: #FFFFFF;
+    font-weight: bold;
+    margin-bottom: 0.5em;
+}
+#paragraph3{
+    /* border: solid 1px white; */
+    color: #FFFFFF;
+    font-weight: 400;
+    /* width: 80%; */
+    padding: 0.1em 0;
+
+}
+form{
+    margin: 3em 1em;
+    /* border: solid 1px white; */
+    padding: 1em;
+
+}
+form label{
+    /* border: solid 1px white;  */
+    color:#A8A8A8;
+    font-weight: bold;
+}
+.send{
+    /* border: solid 1px white;  */
+    position: relative;
+
+    
+
+}
+
+.send input{
+    border-left: solid 5px #08C05E;
+    padding: 1.2em;
+    width: 110%;
+    /* height: 10px; */
+    margin-top: 10px;
+    
+}
+
+.send button{
+    width: 50px;
+    height: 49px;
+    position: absolute;
+    left: 108.7%;
+    top: 12px;
+    background-color: #8257E5;
+    border: none;
+
+}
+.send button img{
+    width: 25px;
+    height: 25px;
+    position: relative;
+    right: 10px;
+    stroke: #FFFFFF;
+    margin: 0 auto;
+    /* margin: 0 auto; */
+}
+
+.btn{
+    margin: 3em 1em;
+    font-weight: bold;
+    padding: 1em;
+}
+
+.btn a{
+    text-decoration: none;
+
+}
+
+.btn a img{
+    position: relative;
+    top: 6px;
+
+}
+
+
+div img{
+    float: right;
+   width: 70%;
+   height: 100vh;
+}
+
+
